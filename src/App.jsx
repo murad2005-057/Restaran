@@ -1,3 +1,4 @@
+// Antigravity Restaurant Reservation Platform - Vercel Deploy Trigger
 import React, { useState, useEffect } from 'react'
 import Scene from './components/Scene'
 import Sidebar from './components/Sidebar'
